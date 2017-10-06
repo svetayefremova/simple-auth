@@ -2,3 +2,4 @@
 .expo/
 npm-debug.*
 .idea/
+.DS_Store
